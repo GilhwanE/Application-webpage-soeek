@@ -13,6 +13,13 @@
   --font-regular: 18px;
   --font-small: 14px;
   --font-micro: 11px;
+
+  /* Font-weight */
+  --weight-extra-bold: 900;
+  --weight-bold: 700;
+  --weight-medium: 500;
+  --weight-regular: 400;
+  --weight-light: 300;
 }
 
 * {
